@@ -108,6 +108,32 @@ Total(First Year)	     ~R1,020
 
 
 
+## PART 2 — Implementation & Responsive Design
+
+### Responsive Design Evidence
+
+**Desktop View**
+![Desktop View](screenshots/desktop.png)
+
+**Tablet View**
+![Tablet View](screenshots/tablet.png)
+
+**Mobile View**
+![Mobile View](screenshots/mobile.png)
+
+### Changelog — Part 2
+- Applied all feedback from Part 1
+- Created external `css/style.css` — cream (#FFF8E7), gold (#D4AF37), dark grey colour scheme
+- Linked stylesheet to all 5 HTML pages: index, about, services, inquiry, contact
+- Added CSS reset, typography, Flexbox navigation, CSS Grid layout
+- Implemented :hover, :active, :focus interactive pseudo-classes
+- Media queries at 768px (tablet) and 480px (mobile) — fully responsive fluid design
+- Made logo responsive — `max-width: 100%; height: auto;`
+- Embedded Google Map (Sandton City) on contact page
+- Added `screenshots/` folder with desktop, tablet, mobile evidence
+
+
+
 
 
 
